@@ -1,1 +1,3 @@
-start npm run start
+@echo off
+npm run start
+exit 
