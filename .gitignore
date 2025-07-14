@@ -4,3 +4,4 @@ logs
 .env
 source
 distribution
+config.yml
